@@ -5,6 +5,8 @@ commands for homework
 
 * git --version
 * git --init
+* git config --global user.name "Ivan"
+* git config --global user.email "v*******s@gmail.com"   (* for hide)
 * git add .
 * git status
 * git commit -m "gitproject hw"
